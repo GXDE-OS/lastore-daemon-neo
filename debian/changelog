@@ -1,0 +1,6 @@
+lastore-daemon (0.14.8) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- shenmo <shenmo@spark-app.store>  Wed, 25 Sep 2024 14:40:45 +0800

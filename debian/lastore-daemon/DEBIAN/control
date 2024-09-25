@@ -1,0 +1,10 @@
+Package: lastore-daemon
+Version: 0.14.8
+Architecture: all
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 9
+Section: unknown
+Priority: optional
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Description: Empty package to replace lastore-daemon

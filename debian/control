@@ -12,5 +12,5 @@ Rules-Requires-Root: no
 Package: lastore-daemon
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},gxde-app-installer,gxde-app-uninstaller,gxde-app-upgrader
 Description: Empty package to replace lastore-daemon
